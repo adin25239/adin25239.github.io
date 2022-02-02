@@ -1,8 +1,20 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Outside house","order":1,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":2,"expanded":false,"name":"Inside house","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Route 1","order":5,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":2,"expanded":false,"name":"Inside house","order":2,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"Route 1","order":9,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":4,"expanded":true,"name":"Tunnel","order":3,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"Underground Pond","order":4,"parentId":4,"scrollX":819,"scrollY":461}
+{"id":5,"expanded":false,"name":"Underground Pond","order":4,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":false,"name":"School","order":11,"parentId":0,"scrollX":816,"scrollY":1467},
+{"id":7,"expanded":false,"name":"Route 2","order":10,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":true,"name":"Underground Maze","order":5,"parentId":4,"scrollX":1589,"scrollY":507},
+{"id":9,"expanded":true,"name":"Underground Path","order":6,"parentId":8,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":false,"name":"Cursed Cave","order":7,"parentId":9,"scrollX":811,"scrollY":1947},
+{"id":11,"expanded":false,"name":"Overworld","order":12,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":12,"expanded":true,"name":"Boulder Pass","order":13,"parentId":0,"scrollX":832,"scrollY":624},
+{"id":13,"expanded":false,"name":"Path","order":8,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":14,"expanded":true,"name":"Boulder Dungeon","order":14,"parentId":12,"scrollX":1020,"scrollY":664},
+{"id":15,"expanded":false,"name":"Boss Room","order":15,"parentId":14,"scrollX":819,"scrollY":461},
+{"id":16,"expanded":false,"name":"Pedastal Room","order":16,"parentId":14,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":false,"name":"Debug Room","order":17,"parentId":0,"scrollX":819,"scrollY":461}
 ]
